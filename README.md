@@ -27,7 +27,7 @@ Elle fournit une interface élégante et responsive pour explorer les caractéri
 
 ```bash
 # Cloner le dépôt
-git clone https://github.com/neylorxt/ValoDeck.git
+git clone https://github.com/neylorxt/Valo-Deck.git
 cd ValoDeck
 
 # Installer les dépendances
